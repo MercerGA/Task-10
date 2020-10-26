@@ -1,0 +1,23 @@
+.headerbackground {
+    width: 100%;
+    position: relative;
+    display: flex;
+}
+.img {
+    width: 100%;
+}
+.navigation {
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+}
+.text {
+    display: flex;
+    justify-content: space-between;
+}
+.nav-text {
+    display: flex;
+    padding: 0px 45px 0px 0px;
+    color: white;
+    font-size: 20px;
+}
