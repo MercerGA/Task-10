@@ -85,7 +85,7 @@
 .part1div1 {
     width: 50%;
     height: 400px;
-    padding: 0px 0px 0px 140px;
+    padding: 0px 0px 0px 120px;
     display: flex;
     flex-flow: column;
 }
@@ -141,8 +141,11 @@
     justify-content: flex-end;
     flex-flow: column;
 }
+.img11 {
+    margin: 0px 11px 16px 0px;
+}
 .img1 {
-    margin: 0px 16px 16px 0px;
+    margin: 0px 0px 16px 0px;
 }
 /* Section 1*/
 /* Section 2*/
