@@ -301,6 +301,8 @@
     color: white;
     transition: 0.5s;
     -webkit-transition: 0.5s;
+}
+.poppins {
     font-family: 'Poppins';
 }
 .sectiontext:hover {
@@ -331,7 +333,6 @@
     font-size: 25px;
     transition: 0.5s;
     -webkit-transition: 0.5s;
-    font-family: 'Poppins';
 }
 .socmedia:hover {
     color: rgb(54, 125, 255);

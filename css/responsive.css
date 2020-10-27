@@ -1,0 +1,26 @@
+/* Header
+@media (max-width: 1024px) {
+   .header,
+   .img {max-width: 1024px;}
+}
+@media (max-width: 414px) {
+    .header,
+    .img {max-width: 414px;}
+ }
+ @media (max-width: 375px) {
+    .header,
+    .img {max-width: 375px;}
+ }
+ @media (max-width: 320px) {
+    .header,
+    .img {max-width: 320px;}
+ }
+ /* Header */
+ /* Section 1 */
+ /* @media (max-width: 1024px) {
+    .part1 {max-width: 1024px;}
+ }
+ @media (max-width: 1024px) {
+    .part1div1,
+    .part2div2 {max-width: 612px;}
+ } */
