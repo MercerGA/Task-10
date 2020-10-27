@@ -161,6 +161,7 @@
 .img2 {
     max-width: 100%;
     width: 100%;
+    height: 612px;
     filter: brightness(50%);
 }
 .section2bcimage {
