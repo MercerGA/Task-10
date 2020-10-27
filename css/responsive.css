@@ -1,4 +1,4 @@
-/* Header
+/* Header */
 @media (max-width: 1024px) {
    .header,
    .img {max-width: 1024px;}
@@ -17,10 +17,10 @@
  }
  /* Header */
  /* Section 1 */
- /* @media (max-width: 1024px) {
+ @media (max-width: 1024px) {
     .part1 {max-width: 1024px;}
  }
  @media (max-width: 1024px) {
     .part1div1,
     .part2div2 {max-width: 612px;}
- } */
+ }

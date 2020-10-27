@@ -260,7 +260,7 @@
     width: 100%;
 }
 .part4title {
-    width: 100%;
+    width: 600px;
     display: flex;
     justify-content: flex-start;
     flex-flow: column wrap;
