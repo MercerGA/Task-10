@@ -87,6 +87,7 @@
     justify-content: space-around;
 }
 .part1div1 {
+    max-width: 50%;
     width: 50%;
     height: 400px;
     padding: 0px 0px 0px 120px;
@@ -139,7 +140,8 @@
     font-family: 'Poppins';
 }
 .part1div2 {
-    width: 50%;
+    max-width: 50%;
+    width: 540px;
     margin: 50px 0px 0px 140px;
     display: flex;
     justify-content: flex-end;
