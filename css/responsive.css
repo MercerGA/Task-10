@@ -1,26 +1,97 @@
-/* Header */
+@media (max-width: 1280px) {
+   .header,
+   .img,
+   .part1,
+   .part2,
+   .part3,
+   .part4,
+   .intro1,
+   .whitebox,
+   .navigation,
+   .part1div1,
+   .part1div2
+   .section2bcimg,
+   .boxcontainer {flex-wrap: wrap;}
+}
 @media (max-width: 1024px) {
    .header,
-   .img {max-width: 1024px;}
+   .img,
+   .part1,
+   .part2,
+   .part3,
+   .part4,
+   .intro1 {flex-wrap: wrap;}
 }
-@media (max-width: 414px) {
-    .header,
-    .img {max-width: 414px;}
+@media (max-width: 900px) {
+   .header,
+   .img,
+   .part1,
+   .part2,
+   .part3,
+   .part4,
+   .intro1{flex-wrap: wrap;}
+}
+@media (max-width: 800px) {
+   .header,
+   .img,
+   .part1,
+   .part2,
+   .part3,
+   .part4,
+   .intro1 {flex-wrap: wrap;}
+}
+@media (max-width: 768px) {
+   .header,
+   .img,
+   .part1,
+   .part2,
+   .part3,
+   .part4,
+   .intro1 {flex-wrap: wrap;}
+}
+@media (max-width: 600px) {
+   .header,
+   .img,
+   .part1,
+   .part2,
+   .part3,
+   .part4,
+   .intro1 {flex-wrap: wrap;}
+}
+@media (max-width: 480px) {
+   .header,
+   .img,
+   .part1,
+   .part2,
+   .part3,
+   .part4,
+   .intro1 {flex-wrap: wrap;}
+}
+@media (max-width: 412px) {
+   .header,
+   .img,
+   .part1,
+   .part2,
+   .part3,
+   .part4,
+   .intro1 {flex-wrap: wrap;}
  }
- @media (max-width: 375px) {
-    .header,
-    .img {max-width: 375px;}
- }
+ @media (max-width: 360px) {
+   .header,
+   .img,
+   .part1,
+   .part2,
+   .part3,
+   .part4,
+   .intro1 {flex-wrap: wrap;}
+}
  @media (max-width: 320px) {
-    .header,
-    .img {max-width: 320px;}
+   .header,
+   .img,
+   .part1,
+   .part2,
+   .part3,
+   .part4,
+   .intro1 {flex-wrap: wrap;}
  }
- /* Header */
- /* Section 1 */
- @media (max-width: 1024px) {
-    .part1 {max-width: 1024px;}
- }
- @media (max-width: 1024px) {
-    .part1div1,
-    .part2div2 {max-width: 612px;}
- }
+
